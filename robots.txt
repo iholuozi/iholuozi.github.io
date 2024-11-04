@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iholuozi.github.io/Ekf/sitemap_index.txt
+Sitemap: https://iholuozi.github.io/FyR/sitemap_index.txt
+Sitemap: https://iholuozi.github.io/IKy/sitemap_index.txt
+Sitemap: https://iholuozi.github.io/cLi/sitemap_index.txt
